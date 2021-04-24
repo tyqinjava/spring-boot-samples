@@ -1,5 +1,4 @@
 = Spring Boot 官方Samples 独立于Springboot源码
-= Spring Boot Samples
 
 The following sample applications are provided:
 
